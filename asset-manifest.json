@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FWT_ART_GALLERY/static/css/main.073c9b0a.css",
+    "main.js": "/FWT_ART_GALLERY/static/js/main.425f95cc.js",
+    "static/js/787.5394ef8b.chunk.js": "/FWT_ART_GALLERY/static/js/787.5394ef8b.chunk.js",
+    "static/media/logo.svg": "/FWT_ART_GALLERY/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FWT_ART_GALLERY/index.html",
+    "main.073c9b0a.css.map": "/FWT_ART_GALLERY/static/css/main.073c9b0a.css.map",
+    "main.425f95cc.js.map": "/FWT_ART_GALLERY/static/js/main.425f95cc.js.map",
+    "787.5394ef8b.chunk.js.map": "/FWT_ART_GALLERY/static/js/787.5394ef8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.425f95cc.js"
+  ]
+}
