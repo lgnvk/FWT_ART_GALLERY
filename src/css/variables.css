@@ -1,0 +1,21 @@
+html {
+  /* Colors: */
+
+  --primary-black: #121212;
+  --primary-white: #ffffff;
+  --primary-light-grey: #dedede;
+  --primary-dark-grey: #575757;
+
+  --secondary-black: #1a1818;
+  --secondary-white: #fcfcfc;
+  --secondary-gray: #9c9c9c;
+
+  --accent-gold: #ab8956;
+  --accent-red: #9b4b4b;
+
+  /* Breakpoints: */
+
+  --screen-xs: 320px;
+  --screen-small: 768px;
+  --screen-medium: 1200px;
+}
