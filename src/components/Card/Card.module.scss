@@ -1,0 +1,50 @@
+@import '../../css/variables.css';
+@import '../../css/fonts.css';
+$primary: black;
+.card {
+  position: relative;
+  font-size: 0;
+  width: 280px;
+  height: 185px;
+  overflow: hidden;
+  &__img {
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+  }
+  &__info {
+    width: 90%;
+    height: 25%;
+    bottom: 0;
+    position: absolute;
+    background-color: var(--primary-black);
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  &__title {
+    margin-left: 12px;
+    font-size: 12px;
+    font-family: Cormorant;
+    font-weight: 500;
+    color: var(--primary-white);
+  }
+  &__year {
+    margin-left: 12px;
+    margin-top: 4px;
+    font-size: 8px;
+    font-family: Inter;
+    color: var(--accent-gold);
+  }
+  &__arrow {
+    width: 10%;
+    height: 100%;
+    background-color: var(--accent-gold);
+    position: absolute;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
