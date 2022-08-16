@@ -1,12 +1,14 @@
 import React from 'react';
 import './App.module.scss';
-import Card from '../Card';
+
+import Header from '../Header';
+import CardsGrid from '../CardsGrid';
 
 function App() {
   return (
     <div className="App">
-      s
-      <Card />
+      <Header />
+      <CardsGrid />
     </div>
   );
 }
