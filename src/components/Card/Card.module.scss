@@ -1,11 +1,11 @@
 @import '../../css/variables.css';
 @import '../../css/fonts.css';
-$primary: black;
+
 .card {
   position: relative;
   font-size: 0;
-  width: 280px;
-  height: 185px;
+  width: 100%;
+  height: auto;
   overflow: hidden;
   &__img {
     height: 100%;

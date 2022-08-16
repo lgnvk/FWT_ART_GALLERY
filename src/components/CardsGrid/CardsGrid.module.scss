@@ -1,0 +1,14 @@
+@import '../../css/styles.css';
+
+.grid {
+  width: 100%;
+  padding: 80px 20px 80px 20px;
+  background-color: var(--primary-black);
+  display: flex;
+  flex-direction: column;
+  &__item {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+}
